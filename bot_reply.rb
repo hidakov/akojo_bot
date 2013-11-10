@@ -16,7 +16,7 @@ statements = [
 "待て待て待て！今のは不可抗力だろ！"
 ]
 
-filename = "/home/ec2-user/id_reply.txt"
+filename = "~/id_reply.txt"
 count = 5
 sleeptime = 60
 
